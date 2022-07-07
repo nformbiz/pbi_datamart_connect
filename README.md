@@ -1,4 +1,6 @@
 # pbi_datamart_connect
+__This code is not currently working and is a work in process towards extracting Power BI datamart data using python__
+
 Code to test connection to power bi datamarts with Python 
 
 
